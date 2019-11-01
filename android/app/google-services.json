@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "789181230654",
+    "firebase_url": "https://saveit-db.firebaseio.com",
+    "project_id": "saveit-db",
+    "storage_bucket": "saveit-db.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:789181230654:android:16a088578a94e054",
+        "android_client_info": {
+          "package_name": "com.example.save_it"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "789181230654-led916l3pocjr87thsua9is82t621h29.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6qXzMsfINqVO6GuoCAKnfTP_by1Zb5ec"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "789181230654-led916l3pocjr87thsua9is82t621h29.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
